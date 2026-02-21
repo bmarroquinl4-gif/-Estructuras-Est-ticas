@@ -1,0 +1,11 @@
+C:\Users\brbra\Desktop\Tareas\ListaContactos\bin\Debug\ListaContactos.exe.config
+C:\Users\brbra\Desktop\Tareas\ListaContactos\bin\Debug\ListaContactos.exe
+C:\Users\brbra\Desktop\Tareas\ListaContactos\bin\Debug\ListaContactos.pdb
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.csproj.AssemblyReference.cache
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.Form1.resources
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.Properties.Resources.resources
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.csproj.GenerateResource.cache
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.csproj.CoreCompileInputs.cache
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.exe
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.pdb
+C:\Users\brbra\Desktop\Tareas\ListaContactos\obj\Debug\ListaContactos.exe.config
