@@ -1,0 +1,11 @@
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.csproj.AssemblyReference.cache
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.Form1.resources
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.Properties.Resources.resources
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.csproj.GenerateResource.cache
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.csproj.CoreCompileInputs.cache
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\bin\Debug\EncriptadorASCII.exe.config
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\bin\Debug\EncriptadorASCII.exe
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\bin\Debug\EncriptadorASCII.pdb
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.exe
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.pdb
+C:\Users\brbra\Desktop\Tareas\EncriptadorASCII\obj\Debug\EncriptadorASCII.exe.config
